@@ -20,7 +20,7 @@ nodeFs/
 
 1. **Clona o descarga el proyecto**
    ```bash
-   git clone <tu-repositorio>
+   git clone https://github.com/ArecheMinaya/Transcription-API.git
    cd Transcription-API
    ```
 
