@@ -1,4 +1,4 @@
-# NodeFS - Ejemplos de File System y Transcripción de Audio
+# Transcription-API - Ejemplos de File System y Transcripción de Audio
 
 Este proyecto contiene ejemplos de operaciones del sistema de archivos de Node.js y transcripción de audio utilizando las APIs de OpenAI y Deepgram.
 
@@ -21,7 +21,7 @@ nodeFs/
 1. **Clona o descarga el proyecto**
    ```bash
    git clone <tu-repositorio>
-   cd nodeFs
+   cd Transcription-API
    ```
 
 2. **Instala las dependencias**
